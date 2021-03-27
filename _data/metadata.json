@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "Recipes",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Swirl together matcha and chocolate cake mixtures to give a lovely marbled effect that looks just like camouflage. With its melted chocolate and cream topping sprinkled with matcha powder, there’s no hiding the fact that it’s truly delicious!",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Swirl together matcha and chocolate cake mixtures to give a lovely marbled effect that looks just like camouflage. With its melted chocolate and cream topping sprinkled with matcha powder, there’s no hiding the fact that it’s truly delicious!",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Constantin-Nicusor Ene",
+    "email": "ene.constantin.nicusor@gmail.com",
     "url": "https://example.com/about-me/"
   }
 }
