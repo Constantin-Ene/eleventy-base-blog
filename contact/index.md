@@ -1,11 +1,12 @@
+---
 layout: layouts/post.njk
 title: Contact
 templateClass: tmpl-post
 eleventyNavigation:
-key: Contact
-order: 3
+  key: Contact
+  order: 3
+---
 
-```
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
@@ -26,4 +27,4 @@ order: 3
     <button type="submit">Send</button>
   </p>
 </form>
-```
+
